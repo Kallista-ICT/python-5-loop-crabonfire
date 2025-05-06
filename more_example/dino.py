@@ -6,8 +6,7 @@ print("Game Start")
 # Main game loop  
 while hp > 0:  
     input("Press Enter to attack the dinosaur...")  
-    hp -= 10  
-    
+    hp -= 10
     # Attack animation  
     print("Oww...")  
     print("HP is decreasing!")  
